@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D1DCD7F-CF48-4733-AC1A-5EEB8C93092F}|..\\Calculadora.Tests\\Calculadora.Tests.csproj|c:\\users\\julio\\source\\repos\\calculadora.tests\\pruebascalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|c:\\users\\julio\\source\\repos\\pruebasunitarias_grupo2\\operacionescombinatorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|solutionrelative:operacionescombinatorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D1DCD7F-CF48-4733-AC1A-5EEB8C93092F}|..\\Calculadora.Tests\\Calculadora.Tests.csproj|c:\\users\\julio\\source\\repos\\calculadora.tests\\calculadora.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D1DCD7F-CF48-4733-AC1A-5EEB8C93092F}|..\\Calculadora.Tests\\Calculadora.Tests.csproj|c:\\users\\julio\\source\\repos\\calculadora.tests\\pruebascalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|c:\\users\\julio\\source\\repos\\pruebasunitarias_grupo2\\operacionestrigonometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculadora.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\Calculadora.Tests.csproj",
               "RelativeDocumentMoniker": "..\\Calculadora.Tests\\Calculadora.Tests.csproj",
@@ -60,30 +60,30 @@
               "RelativeToolTip": "..\\Calculadora.Tests\\Calculadora.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-20T22:06:10.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T22:06:10.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PruebasCalculadora.cs",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\PruebasCalculadora.cs",
               "RelativeDocumentMoniker": "..\\Calculadora.Tests\\PruebasCalculadora.cs",
               "ToolTip": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\PruebasCalculadora.cs",
               "RelativeToolTip": "..\\Calculadora.Tests\\PruebasCalculadora.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T22:04:02.881Z"
+              "WhenOpened": "2026-04-20T22:04:02.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OperacionesCombinatorias.cs",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesCombinatorias.cs",
               "RelativeDocumentMoniker": "OperacionesCombinatorias.cs",
               "ToolTip": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesCombinatorias.cs",
               "RelativeToolTip": "OperacionesCombinatorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T21:36:05.963Z",
               "EditorCaption": ""

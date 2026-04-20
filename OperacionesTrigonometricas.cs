@@ -6,25 +6,24 @@ using System.Threading.Tasks;
 
 namespace Calculadora
 {
-    public class OperacionesTrigonometricas
-    {
-        public static double CalcularSeno(double anguloGrados)
+   
+        public class OperacionesTrigonometricas
         {
-            double anguloRadianes = ConvertirGradosARadianes(anguloGrados);
-            return Math.Tan(anguloRadianes);
-        }
+            public static double CalcularSeno(double anguloGrados)
+            {
+                double anguloRadianes = ConvertirGradosARadianes(anguloGrados);
+                return Math.Sin(anguloRadianes);
+            }
 
-        public static double CalcularCoseno(double anguloGrados)
-        {
-            double anguloRadianes = ConvertirGradosARadianes(anguloGrados);
-            return Math.Sin(anguloRadianes);
-        }
+            public static double CalcularCoseno(double anguloGrados)
+            {
+                double anguloRadianes = ConvertirGradosARadianes(anguloGrados);
+                return Math.Cos(anguloRadianes);
+            }
 
-        private static double ConvertirGradosARadianes(double grados)
-        {
-            return grados * (Math.PI / 180);
-        }
-    }
-
-
-}
+            private static double ConvertirGradosARadianes(double grados)
+            {
+                return grados * (Math.PI / 180);
+            }
+        } // 
+    } // 

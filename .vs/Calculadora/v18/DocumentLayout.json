@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|c:\\users\\julio\\source\\repos\\pruebasunitarias_grupo2\\operacionescombinatorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|solutionrelative:operacionescombinatorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1DCD7F-CF48-4733-AC1A-5EEB8C93092F}|..\\Calculadora.Tests\\Calculadora.Tests.csproj|c:\\users\\julio\\source\\repos\\calculadora.tests\\calculadora.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1DCD7F-CF48-4733-AC1A-5EEB8C93092F}|..\\Calculadora.Tests\\Calculadora.Tests.csproj|c:\\users\\julio\\source\\repos\\calculadora.tests\\pruebascalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|c:\\users\\julio\\source\\repos\\pruebasunitarias_grupo2\\operacionestrigonometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214E0239-D48F-443D-8587-3D73243A071E}|Calculadora.csproj|solutionrelative:operacionestrigonometricas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\Calculadora.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Calculadora.Tests\\Calculadora.Tests.csproj",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\Calculadora.Tests.csproj",
+              "RelativeToolTip": "..\\Calculadora.Tests\\Calculadora.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T22:06:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PruebasCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\PruebasCalculadora.cs",
+              "RelativeDocumentMoniker": "..\\Calculadora.Tests\\PruebasCalculadora.cs",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Calculadora.Tests\\PruebasCalculadora.cs",
+              "RelativeToolTip": "..\\Calculadora.Tests\\PruebasCalculadora.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T22:04:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacionesCombinatorias.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesCombinatorias.cs",
+              "RelativeDocumentMoniker": "OperacionesCombinatorias.cs",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesCombinatorias.cs",
+              "RelativeToolTip": "OperacionesCombinatorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:36:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacionesTrigonometricas.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesTrigonometricas.cs",
+              "RelativeDocumentMoniker": "OperacionesTrigonometricas.cs",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\PruebasUnitarias_Grupo2\\OperacionesTrigonometricas.cs",
+              "RelativeToolTip": "OperacionesTrigonometricas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:35:42.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

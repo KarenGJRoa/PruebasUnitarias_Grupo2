@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculadora
 {
-  
+    
         public class OperacionesCombinatorias
         {
             public static int CalcularFactorial(int n)

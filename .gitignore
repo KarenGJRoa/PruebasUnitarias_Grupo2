@@ -1,0 +1,11 @@
+# Artefactos de compilación
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

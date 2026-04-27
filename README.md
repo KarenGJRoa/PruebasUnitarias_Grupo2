@@ -14,3 +14,8 @@ Universidad Militar Nueva Granada
 Juan Sebastián Manrique García (200306)
 Karen Gisela Jiménez Roa (200261)
 Julio Cesar Urrea Perez (200321)
+
+# Inicializarlo
+1. cd .\Calculadora.Tests\
+2. dotnet test
+O tambien: dotnet test .\Calculadora.sln 
